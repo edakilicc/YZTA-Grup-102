@@ -1,4 +1,4 @@
-# **Takım İsmi**
+# **Takım İsmi**   ÖRNEK YAPIDIR, ZAMANLA GÜNCELLENECEKTİR
 
 Takım X
 
