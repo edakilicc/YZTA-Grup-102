@@ -64,9 +64,6 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 
 [PharmaGuard Trello Backlog Board](BURAYA_TRELLO_LINKI_GELECEK)
 
-![Sprint Board](BURAYA_SPRINT_BOARD_EKRAN_GORUNTUSU_GELECEK)
-
-
 ---
 # Sprint Süreci
 <details>
@@ -86,7 +83,7 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 ---
 ## 🗣 Daily Scrum
 
-Sprint 1 süresince ekip içi iletişim ve sprint koordinasyonu **Microsoft Teams** ve **Slack** üzerinden yürütülmüştür.
+Sprint 1 süresince ekip içi iletişim ve sprint koordinasyonu **Zoom** ve **Slack** üzerinden yürütülmüştür.
 
 Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 
@@ -98,7 +95,7 @@ Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden takip edilmiştir.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
-📄 Teams & Slack ekran görüntüleri  GELECEK
+📄 Zoom & Slack ekran görüntüleri  GELECEK
 
 ---
 
