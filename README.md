@@ -120,7 +120,7 @@ Sprint 1 sonunda gerçekleştirilen toplantılar doğrultusunda proje fikri netl
 Projenin kapsamı, hedef kitlesi ve MVP özellikleri ekip tarafından değerlendirilmiş, kullanılacak teknolojiler üzerinde ortak bir görüş oluşturulmuştur.
 Sprint sürecinde GitHub reposu oluşturulmuş, proje dokümantasyonuna başlanmış ve Product Backlog hazırlanmıştır.
 Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve ekip üyeleri arasında ön görev dağılımı yapılmıştır.
----
+
 
 ## Sprint Retrospective
 
