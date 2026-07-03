@@ -1,16 +1,22 @@
 # Proje İsmi
-💊 PharmaGuard
+<div align="center">
+
+# 💊 PharmaGuard
+
+### AI-Powered Smart Medication & Treatment Management Platform
+
+</div>
 
 # Takım İsmi
-AI | Takım 102
-# Takımımız
+Takım 102
 
+# Takım Üyelerimiz
 | Fotoğraf       | İsim         | Rol               | LinkedIn Hesabı                                          |
 | -------------- | ------------ | ----------------- | -------------------------------------------------------- |
-| | Eylül Kalfa | Product Owner & Developer  |   |
-| | Esra Eda Kılıç   | Scrum Master & Developer  |      |
-| | Yiğit Emre Demiral    | Developer         |      |
-| | Serhat Erdoğan   | Developer|    |
+| | Eylül Kalfa | Product Owner & Developer  | [LinkedIn](https://www.linkedin.com/in/eylulkalfa/)  |
+| | Esra Eda Kılıç   | Scrum Master & Developer  | [LinkedIn](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
+| | Yiğit Emre Demiral    | Developer         | [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/)     |
+| | Serhat Erdoğan   | Developer| Gelecek   |
 
 
 # Projenin Açıklaması
@@ -19,7 +25,7 @@ Uygulama; ilaçların manuel olarak eklenmesini, reçete fotoğraflarından OCR 
 Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor kontrolleri öncesinde haftalık tedavi raporlarını PDF formatında oluşturabilir.
 
 # Projenin Amacı
-PharmaGuard, kronik hastalar, yaşlı bireyler ve düzenli ilaç kullanan kişilerin ilaç kullanım süreçlerini daha güvenli, düzenli ve takip edilebilir hale getirmeyi amaçlamaktadır. Kullanıcıların ilaçlarını zamanında kullanmalarını desteklerken, reçete ve prospektüs bilgilerinin anlaşılmasını kolaylaştırır ve yapay zekâ destekli analizlerle tedavi sürecini daha verimli yönetmelerine yardımcı olur. Ayrıca doktor kontrolleri öncesinde düzenli tedavi raporları oluşturarak hasta ve sağlık profesyonelleri arasındaki iletişimi güçlendirmeyi hedefler.
+**PharmaGuard**, kronik hastalar, yaşlı bireyler ve düzenli ilaç kullanan kişilerin ilaç kullanım süreçlerini daha güvenli, düzenli ve takip edilebilir hale getirmeyi amaçlamaktadır. Kullanıcıların ilaçlarını zamanında kullanmalarını desteklerken, reçete ve prospektüs bilgilerinin anlaşılmasını kolaylaştırır ve yapay zekâ destekli analizlerle tedavi sürecini daha verimli yönetmelerine yardımcı olur. Ayrıca doktor kontrolleri öncesinde düzenli tedavi raporları oluşturarak hasta ve sağlık profesyonelleri arasındaki iletişimi güçlendirmeyi hedefler.
 
 # Temel Özellikler
 * **Manuel İlaç Yönetimi:** Kullanıcılar ilaçlarını kolayca sisteme ekleyebilir, düzenleyebilir ve günlük kullanım planlarını oluşturabilir.
