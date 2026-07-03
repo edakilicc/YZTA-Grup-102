@@ -73,74 +73,70 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
   <summary><h2>Sprint 1</h2></summary>
 
 ## Sprint Notları
-Sprint süresince yapılması planlanan görevler backlog içerisine tanımlanmıştır.  
-Projenin temel yapısı oluşturulmuştur.
+- Ekip üyeleri tanışarak ilk toplantı gerçekleştirildi.
+- Scrum rolleri (Product Owner, Scrum Master ve Developer) belirlendi.
+- Farklı proje fikirleri ekip içerisinde değerlendirildi ve avantaj/dezavantaj analizleri yapıldı.
+- Yapılan değerlendirmeler sonucunda **PharmaGuard** projesinin geliştirilmesine karar verildi.
+- Projenin amacı, hedef kitlesi ve temel özellikleri netleştirildi.
+- MVP kapsamında geliştirilecek özellikler belirlendi.
+- Kullanılacak teknolojiler (React, FastAPI, PostgreSQL, Gemini API, Tesseract OCR vb.) üzerine araştırmalar yapıldı ve ekip içerisinde fikir alışverişinde bulunuldu.
+- GitHub reposu oluşturuldu ve README dokümantasyonu hazırlanmaya başlandı.
+- Product Backlog oluşturuldu ve Sprint 2 için geliştirme yol haritası planlandı.
 
 ---
-
-##  Sprint Puanları
-
-- **Toplam Backlog Puanı:** 340 puan  
-- **Sprint 1 Hedefi:** 100 puan
-
-**Sprint 1 içeriği:**
-- Altyapı kurulumu  
-- Veri toplama  
-- İlk model eğitimi  
-- İlk arayüz tasarımı
-
----
-
 ## 🗣 Daily Scrum
 
-Günlük scrum toplantılarımız **WhatsApp grubu üzerinden yazılı olarak** gerçekleştirilmiştir.  
-Her gün ekip üyeleri tarafından:
+Sprint 1 süresince ekip içi iletişim ve sprint koordinasyonu **Microsoft Teams** ve **Slack** üzerinden yürütülmüştür.
 
--  Bir önceki gün yapılan işler  
--  O gün planlanan görevler  
--  Karşılaşılan engeller veya ihtiyaç duyulan destekler  
+Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 
-belirli bir formatla gruba aktarılmıştır.
+- Tamamlanan çalışmalar,
+- Bir sonraki adımlar ve planlanan görevler,
+- Karşılaşılan sorunlar ve ihtiyaç duyulan destekler,
+- Proje kapsamına ilişkin fikir ve öneriler
 
-🗂 **Günlük konuşma kayıtları:**  
-📄 [daily.pdf](Documentation/daily.pdf)
+ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden takip edilmiştir.
+
+🗂 **Toplantı notları ve iletişim kayıtları:**  
+📄 Teams & Slack ekran görüntüleri  GELECEK
 
 ---
 
 ##  Sprint Board
 
-![Sprint Board](Documentation/trello1.png)
+Sprint Board Fotoğrafı Gelecek
 
 ---
 
 ## Ürün Durumu (Ekran Görüntüleri)
 
-![RadiologyWorkbench_Web_Arayüzü_1](https://github.com/user-attachments/assets/f7a2cd72-cbe2-4072-b9cc-6ef964cadde9)
-
-
-![RadiologyWorkbench_Web_Arayüzü_2](https://github.com/user-attachments/assets/3e39d3ff-a82f-4600-b610-9cd98fa6b021)
-
-
-![Binary_Classification_densenet](https://github.com/user-attachments/assets/b13ead65-89b2-44f6-be66-39e6acbbc20f)
+GELECEK
 
 ---
 
 ##  Sprint Review
 
-- Göğüs X-ray verileri başarıyla toplanmış ve analiz edilmiştir.
-- Veriler üzerinde, hastalıklı ve sağlıklı etiketlerine göre bir ikili (binary) sınıflandırma modeli geliştirilmiştir.
-- Hastalıklı olarak etiketlenmiş veriler üzerinde çok sınıflı (multi-class) sınıflandırma modeli bulunmuştur.  
-- Görselleştirme ve anomali işaretleme bir sonraki sprint'e ertelendi.  
-- Raporlama için Gemini entegrasyonu planlandı fakat henüz başlatılmadı. Prompt yapıları Sprint 2’ye aktarılmıştır.  
-- Sistem, ileride farklı vücut bölgelerini analiz edebilecek şekilde genişletilebilir.
-- Web sitesine yönelik genel bir kullanıcı arayüzü tasarımı gerçekleştirildi.
-
+Sprint 1 sonunda gerçekleştirilen toplantılar doğrultusunda proje fikri netleştirilmiş ve **PharmaGuard** projesinin geliştirilmesine karar verilmiştir. 
+Projenin kapsamı, hedef kitlesi ve MVP özellikleri ekip tarafından değerlendirilmiş, kullanılacak teknolojiler üzerinde ortak bir görüş oluşturulmuştur.
+Sprint sürecinde GitHub reposu oluşturulmuş, proje dokümantasyonuna başlanmış ve Product Backlog hazırlanmıştır.
+Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve ekip üyeleri arasında ön görev dağılımı yapılmıştır.
 ---
 
 ## Sprint Retrospective
 
-- Toplantı zamanları belirlendi.  
-- Takım içi görev dağılımları yapıldı.
+### Sprint Boyunca İyi Gidenler
+
+- Ekip içerisinde fikir paylaşımı açık ve yapıcı bir şekilde gerçekleşti.
+- Farklı proje fikirleri detaylı olarak değerlendirilerek ortak bir karara varıldı.
+- Görevler ekip üyelerinin ilgi alanları ve istekleri doğrultusunda planlandı.
+- İletişim sürecinde ekip üyeleri birbirlerine destekleyici ve anlayışlı bir yaklaşım sergiledi.
+
+### Bir Sonraki Sprintte Daha İyi Yapabileceklerimiz
+
+- Ortak toplantı saatlerini daha erken planlayarak tüm ekip üyelerinin katılımını artırmayı hedefliyoruz.
+- Zaman yönetimini daha verimli hale getirmek için görevlerin takibini daha düzenli sürdüreceğiz.
+- Sprint süresince görev ilerlemelerini daha sık paylaşarak ekip içi koordinasyonu güçlendireceğiz.
+- Geliştirme sürecine daha erken başlayarak Sprint hedeflerini planlanan takvime uygun şekilde ilerleteceğiz.
 
 </details>
 
