@@ -7,7 +7,7 @@
 | | Eylül Kalfa | Product Owner & Developer  | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/)  |
 | | Esra Eda Kılıç   | Scrum Master & Developer  | [linkedin.com/in/esraedakılıç](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
 | | Yiğit Emre Demiral    | Developer         | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/)   |
-| | Serhat Erdoğan   | Developer| Gelecek   |
+| | Serhat Erdoğan   | Developer| [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) |
 
 # Ürün İsmi
 <div align="center">
