@@ -1,76 +1,105 @@
-# **Takım İsmi**   ÖRNEK YAPIDIR, ZAMANLA GÜNCELLENECEKTİR
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4fdadf2c-742c-46c5-af9b-dcb4fe796abe" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/001a282e-ffdb-4006-8f0f-08dda10d864e" />
 
-Takım X
+# Proje İsmi
+💊 PharmaGuard
 
-# Ürün İle İlgili Bilgiler
+# Takım İsmi
+AI | Takım 102
+# Takımımız
 
-## Takım Elemanları
-
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
-
-## Ürün İsmi
-
---Movie App--
-
-## Ürün Açıklaması
-
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
-
-## Ürün Özellikleri
-
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
-
-## Hedef Kitle
-
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
-
-## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-
----
-
-# Sprint 1
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
-
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
-- **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
----
-
-# Sprint 2
+| Fotoğraf       | İsim         | Rol               | LinkedIn Hesabı                                          |
+| -------------- | ------------ | ----------------- | -------------------------------------------------------- |
+| | Eylül Kalfa | Product Owner & Developer  |   |
+| | Esra Eda Kılıç   | Scrum Master & Developer  |      |
+| | Yiğit Emre Demiral    | Developer         |      |
+| | Serhat Erdoğan   | Developer|    |
 
 
----
+# Projenin Açıklaması
+**PharmaGuard**, kullanıcıların ilaç kullanım süreçlerini daha güvenli, düzenli ve kolay yönetmelerini sağlayan yapay zekâ destekli bir ilaç ve tedavi yönetim platformudur. 
+Uygulama; ilaçların manuel olarak eklenmesini, reçete fotoğraflarından OCR teknolojisi ile ilaç bilgilerinin okunmasını, günlük ilaç takibinin yapılmasını ve yapay zekâ tarafından prospektüs bilgilerinin sade bir dille özetlenmesini sağlar. 
+Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor kontrolleri öncesinde haftalık tedavi raporlarını PDF formatında oluşturabilir.
 
-# Sprint 3
+# Projenin Amacı
+PharmaGuard, kronik hastalar, yaşlı bireyler ve düzenli ilaç kullanan kişilerin ilaç kullanım süreçlerini daha güvenli, düzenli ve takip edilebilir hale getirmeyi amaçlamaktadır. Kullanıcıların ilaçlarını zamanında kullanmalarını desteklerken, reçete ve prospektüs bilgilerinin anlaşılmasını kolaylaştırır ve yapay zekâ destekli analizlerle tedavi sürecini daha verimli yönetmelerine yardımcı olur. Ayrıca doktor kontrolleri öncesinde düzenli tedavi raporları oluşturarak hasta ve sağlık profesyonelleri arasındaki iletişimi güçlendirmeyi hedefler.
 
----
+# Temel Özellikler
+* **Manuel İlaç Yönetimi:** Kullanıcılar ilaçlarını kolayca sisteme ekleyebilir, düzenleyebilir ve günlük kullanım planlarını oluşturabilir.
+
+* **OCR Destekli Reçete Okuma:** Reçete fotoğrafları Tesseract OCR teknolojisi ile analiz edilerek ilaç isimleri otomatik olarak sisteme aktarılır.
+
+* **Yapay Zekâ Destekli Prospektüs Özeti:** Gemini API ile ilaç prospektüsleri sade ve anlaşılır bir dille özetlenerek kullanıcıların ilaçlarını daha bilinçli kullanmaları desteklenir.
+
+* **Günlük İlaç Takibi:** Kullanıcılar ilaçlarını alındı/alınmadı olarak işaretleyebilir ve günlük tedavi süreçlerini düzenli şekilde takip edebilir.
+
+* **Akıllı İlaç Analizi:** Aynı etken maddeye sahip ilaçlar tespit edilerek kullanıcıya bilgilendirici uyarılar sunulur.
+
+* **Haftalık Tedavi Raporu:** Kullanıcının ilaç kullanım geçmişi analiz edilerek doktor kontrollerinde kullanılabilecek PDF formatında haftalık rapor oluşturulur.
+
+* **Kullanıcı Dostu Dashboard:** İlaç kullanım oranı, günlük görevler ve tedavi süreci tek bir ekranda görselleştirilerek kullanıcıya sunulur.
+
+# Hedef Kitle
+* Kronik hastalığı nedeniyle düzenli ilaç kullanan bireyler
+* Birden fazla ilaç kullanan kullanıcılar
+* Yaşlı bireyler ve bakımını üstlenen yakınları
+* Düzenli tedavi süreci gerektiren hastalar
+* İlaç kullanımını düzenli takip etmek isteyen herkes
+
+# Kullanılacak Teknolojiler
+* Frontend: React.js, Tailwind CSS
+* Backend: FastAPI
+* Veritabanı: PostgreSQL
+* Yapay Zekâ: Gemini API
+* OCR (Optik Karakter Tanıma): Tesseract OCR
+* PDF Oluşturma: ReportLab
+* API Testi: Postman
+* Sürüm Kontrolü: Git & GitHub
+* Dağıtım (Deployment): Vercel (Frontend), Render (Backend)
+
+# Product Backlog URL
+Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
+
+[PharmaGuard Trello Backlog Board](BURAYA_TRELLO_LINKI_GELECEK)
+
+![Sprint Board](BURAYA_SPRINT_BOARD_EKRAN_GORUNTUSU_GELECEK)
+
+
+
+# Sprint 1 Raporu
+
+Sprint Notları: Sprint sürecine başlamadan önce Trello üzerinde oluşturduğumuz product backlog, üç sprintlik iş yükünü kapsayacak şekilde önceden planlanmıştır. Bu sayede, projenin genel yol haritası netleşmiş ve uzun vadeli hedeflere daha stratejik bir şekilde yaklaşılabilmiştir.
+
+* Daily Scrum Raporları: Proje kapsamında iletişim ve koordinasyonun sağlanabilmesi amacıyla düzenli olarak Whatsapp ve Google Meet platformları üzerinden toplantılar gerçekleştirilmiştir. Takım içi rol dağılımı, önceki formlarda belirtildiği üzere, net bir şekilde belirlenmiştir. Kutay, proje boyunca Product Owner olarak görev almakta; projenin genel vizyonunu belirleme, gereksinimleri toplama ve ekipler arası koordinasyonu sağlama sorumluluğunu üstlenmektedir. Damla ise Scrum Master rolünü üstlenerek, takımın Scrum süreçlerine uygun şekilde çalışmasını, engellerin hızlıca aşılmasını ve takım içi iletişimin etkin bir şekilde yürütülmesini sağlamaktadır.Proje görev dağılımı çerçevesinde iki ana ekip oluşturulmuştur:
+
+* Backend ve Veritabanı Ekibi: Bedirhan ve Sare’den oluşan bu ekip, projenin veritabanı tasarımı ve backend geliştirme süreçlerinden sorumludur. Veritabanı yapısının oluşturulması, API geliştirme ve sunucu tarafı işlemler bu ekibin ana görev alanlarını oluşturmaktadır.
+* Frontend Ekibi: Kerem ve Damla’dan oluşan bu ekip ise, kullanıcı arayüzü tasarımı ve geliştirilmesi, kullanıcı deneyimi (UX) ve uygulamanın görsel bileşenlerinin kodlanmasından sorumludur.
+Product Owner olan Kutay, her iki ekiple de yakın bir şekilde çalışarak, ihtiyaç duyulan her noktada destek sağlamakta ve ekipler arasında bilgi akışını koordine etmektedir. Böylece, projenin tüm aşamalarında bütüncül bir yaklaşım benimsenmiş ve ekipler arası iş birliği en üst düzeyde tutulmuştur.
+
+Sprint Board Updates: Sprint sürecinin şeffaf ve verimli bir şekilde yönetilebilmesi amacıyla, tüm görevler ve iş akışları Trello üzerinde oluşturulan Sprint Board üzerinden takip edilmiştir. Sprint Board, projenin mevcut durumunu ve ilerleyişini anlık olarak görmemizi sağlamış, ekip üyeleri arasında görev paylaşımını ve sorumlulukların netleşmesini kolaylaştırmıştır. Görevler, her sprint için öngörülen puan sınırını aşmayacak biçimde dağıtılmıştır.
+
+## Sprint 1 Daily Scrum Meets
+Sürecin büyük kısmını Google Meet üzerinde neredeyse her gün meeting gerçekleştirerek yaptık.
+
+[Daily Scrum Meets](https://docs.google.com/document/d/14dpRRWSR0RTtUQu9QqKADDhbIHwv9LhxXnHE21a-tqw/edit?usp=sharing)
+
+## Sprint Review
+* Tüm ekip üyeleri sprint süresince gerçekleştirilen toplantılara eksiksiz katılım sağladı. Proje ve proje gereksinimleri ekipçe kapsamlı bir şekilde gözden geçirildi. Sonraki sprintlerde gerçekleştirilecek görevler belirlendi ve bu görevlerin ekip üyeleri arasında dengeli bir şekilde dağıtılması sağlandı.
+
+## Sprint Retrospective
+Güçlü Yönlerimiz
+* Etkili bir ekip çalışması yürüttük; ekip içerisinde mikro ekipler oluşturarak iletişimi dinamik ve sürdürülebilir kıldık.
+
+* Sürecin başında detaylı bir analiz yaparak sağlam bir planlama gerçekleştirdik.
+
+* Projeye yenilikçi fikirler entegre etmek konusunda cesur davrandık ve ekip ruhunu başarıyla pekiştirdik.
+
+Geliştirilmesi Gereken Yönlerimiz
+
+* Teknik bilgi eksikliklerimizi gidermek için bireysel ve ekip içi gelişim çalışmalarına ağırlık vermeliyiz.
+
+* Zaman yönetimi konusunda daha disiplinli ve verimli bir yaklaşım benimsememiz gerekmektedir.
+
+# Sprint 2 
+
+
