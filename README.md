@@ -67,41 +67,84 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 ![Sprint Board](BURAYA_SPRINT_BOARD_EKRAN_GORUNTUSU_GELECEK)
 
 
+---
+# Sprint Süreci
+<details>
+  <summary><h2>Sprint 1</h2></summary>
 
-# Sprint 1 Raporu
+## Sprint Notları
+Sprint süresince yapılması planlanan görevler backlog içerisine tanımlanmıştır.  
+Projenin temel yapısı oluşturulmuştur.
 
-Sprint Notları: Sprint sürecine başlamadan önce Trello üzerinde oluşturduğumuz product backlog, üç sprintlik iş yükünü kapsayacak şekilde önceden planlanmıştır. Bu sayede, projenin genel yol haritası netleşmiş ve uzun vadeli hedeflere daha stratejik bir şekilde yaklaşılabilmiştir.
+---
 
-* Daily Scrum Raporları: Proje kapsamında iletişim ve koordinasyonun sağlanabilmesi amacıyla düzenli olarak Whatsapp ve Google Meet platformları üzerinden toplantılar gerçekleştirilmiştir. Takım içi rol dağılımı, önceki formlarda belirtildiği üzere, net bir şekilde belirlenmiştir. Kutay, proje boyunca Product Owner olarak görev almakta; projenin genel vizyonunu belirleme, gereksinimleri toplama ve ekipler arası koordinasyonu sağlama sorumluluğunu üstlenmektedir. Damla ise Scrum Master rolünü üstlenerek, takımın Scrum süreçlerine uygun şekilde çalışmasını, engellerin hızlıca aşılmasını ve takım içi iletişimin etkin bir şekilde yürütülmesini sağlamaktadır.Proje görev dağılımı çerçevesinde iki ana ekip oluşturulmuştur:
+##  Sprint Puanları
 
-* Backend ve Veritabanı Ekibi: Bedirhan ve Sare’den oluşan bu ekip, projenin veritabanı tasarımı ve backend geliştirme süreçlerinden sorumludur. Veritabanı yapısının oluşturulması, API geliştirme ve sunucu tarafı işlemler bu ekibin ana görev alanlarını oluşturmaktadır.
-* Frontend Ekibi: Kerem ve Damla’dan oluşan bu ekip ise, kullanıcı arayüzü tasarımı ve geliştirilmesi, kullanıcı deneyimi (UX) ve uygulamanın görsel bileşenlerinin kodlanmasından sorumludur.
-Product Owner olan Kutay, her iki ekiple de yakın bir şekilde çalışarak, ihtiyaç duyulan her noktada destek sağlamakta ve ekipler arasında bilgi akışını koordine etmektedir. Böylece, projenin tüm aşamalarında bütüncül bir yaklaşım benimsenmiş ve ekipler arası iş birliği en üst düzeyde tutulmuştur.
+- **Toplam Backlog Puanı:** 340 puan  
+- **Sprint 1 Hedefi:** 100 puan
 
-Sprint Board Updates: Sprint sürecinin şeffaf ve verimli bir şekilde yönetilebilmesi amacıyla, tüm görevler ve iş akışları Trello üzerinde oluşturulan Sprint Board üzerinden takip edilmiştir. Sprint Board, projenin mevcut durumunu ve ilerleyişini anlık olarak görmemizi sağlamış, ekip üyeleri arasında görev paylaşımını ve sorumlulukların netleşmesini kolaylaştırmıştır. Görevler, her sprint için öngörülen puan sınırını aşmayacak biçimde dağıtılmıştır.
+**Sprint 1 içeriği:**
+- Altyapı kurulumu  
+- Veri toplama  
+- İlk model eğitimi  
+- İlk arayüz tasarımı
 
-## Sprint 1 Daily Scrum Meets
-Sürecin büyük kısmını Google Meet üzerinde neredeyse her gün meeting gerçekleştirerek yaptık.
+---
 
-[Daily Scrum Meets](https://docs.google.com/document/d/14dpRRWSR0RTtUQu9QqKADDhbIHwv9LhxXnHE21a-tqw/edit?usp=sharing)
+## 🗣 Daily Scrum
 
-## Sprint Review
-* Tüm ekip üyeleri sprint süresince gerçekleştirilen toplantılara eksiksiz katılım sağladı. Proje ve proje gereksinimleri ekipçe kapsamlı bir şekilde gözden geçirildi. Sonraki sprintlerde gerçekleştirilecek görevler belirlendi ve bu görevlerin ekip üyeleri arasında dengeli bir şekilde dağıtılması sağlandı.
+Günlük scrum toplantılarımız **WhatsApp grubu üzerinden yazılı olarak** gerçekleştirilmiştir.  
+Her gün ekip üyeleri tarafından:
+
+-  Bir önceki gün yapılan işler  
+-  O gün planlanan görevler  
+-  Karşılaşılan engeller veya ihtiyaç duyulan destekler  
+
+belirli bir formatla gruba aktarılmıştır.
+
+🗂 **Günlük konuşma kayıtları:**  
+📄 [daily.pdf](Documentation/daily.pdf)
+
+---
+
+##  Sprint Board
+
+![Sprint Board](Documentation/trello1.png)
+
+---
+
+## Ürün Durumu (Ekran Görüntüleri)
+
+![RadiologyWorkbench_Web_Arayüzü_1](https://github.com/user-attachments/assets/f7a2cd72-cbe2-4072-b9cc-6ef964cadde9)
+
+
+![RadiologyWorkbench_Web_Arayüzü_2](https://github.com/user-attachments/assets/3e39d3ff-a82f-4600-b610-9cd98fa6b021)
+
+
+![Binary_Classification_densenet](https://github.com/user-attachments/assets/b13ead65-89b2-44f6-be66-39e6acbbc20f)
+
+---
+
+##  Sprint Review
+
+- Göğüs X-ray verileri başarıyla toplanmış ve analiz edilmiştir.
+- Veriler üzerinde, hastalıklı ve sağlıklı etiketlerine göre bir ikili (binary) sınıflandırma modeli geliştirilmiştir.
+- Hastalıklı olarak etiketlenmiş veriler üzerinde çok sınıflı (multi-class) sınıflandırma modeli bulunmuştur.  
+- Görselleştirme ve anomali işaretleme bir sonraki sprint'e ertelendi.  
+- Raporlama için Gemini entegrasyonu planlandı fakat henüz başlatılmadı. Prompt yapıları Sprint 2’ye aktarılmıştır.  
+- Sistem, ileride farklı vücut bölgelerini analiz edebilecek şekilde genişletilebilir.
+- Web sitesine yönelik genel bir kullanıcı arayüzü tasarımı gerçekleştirildi.
+
+---
 
 ## Sprint Retrospective
-Güçlü Yönlerimiz
-* Etkili bir ekip çalışması yürüttük; ekip içerisinde mikro ekipler oluşturarak iletişimi dinamik ve sürdürülebilir kıldık.
 
-* Sürecin başında detaylı bir analiz yaparak sağlam bir planlama gerçekleştirdik.
+- Toplantı zamanları belirlendi.  
+- Takım içi görev dağılımları yapıldı.
 
-* Projeye yenilikçi fikirler entegre etmek konusunda cesur davrandık ve ekip ruhunu başarıyla pekiştirdik.
+</details>
 
-Geliştirilmesi Gereken Yönlerimiz
 
-* Teknik bilgi eksikliklerimizi gidermek için bireysel ve ekip içi gelişim çalışmalarına ağırlık vermeliyiz.
-
-* Zaman yönetimi konusunda daha disiplinli ve verimli bir yaklaşım benimsememiz gerekmektedir.
-
-# Sprint 2 
-
+<details>
+  <summary><h2>Sprint 2</h2></summary>
 
