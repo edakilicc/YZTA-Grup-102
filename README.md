@@ -4,9 +4,9 @@
 # Takım Üyelerimiz
 | Fotoğraf       | İsim         | Rol               | LinkedIn Hesabı                                          |
 | -------------- | ------------ | ----------------- | -------------------------------------------------------- |
-| | Eylül Kalfa | Product Owner & Developer  | eylulkalfa](https://www.linkedin.com/in/eylulkalfa/)  |
-| | Esra Eda Kılıç   | Scrum Master & Developer  | [esraedakılıç](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
-| | Yiğit Emre Demiral    | Developer         | [yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/)    |
+| | Eylül Kalfa | Product Owner & Developer  | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/)  |
+| | Esra Eda Kılıç   | Scrum Master & Developer  | [linkedin.com/in/esraedakılıç](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
+| | Yiğit Emre Demiral    | Developer         | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/)   |
 | | Serhat Erdoğan   | Developer| Gelecek   |
 
 # Ürün İsmi
