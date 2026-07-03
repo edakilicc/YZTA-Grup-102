@@ -95,7 +95,8 @@ Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden takip edilmiştir.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
-📄 Zoom & Slack ekran görüntüleri  GELECEK
+📄 Zoom & Slack ekran görüntüleri  
+GELECEK
 
 ---
 
