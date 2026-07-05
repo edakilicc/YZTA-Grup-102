@@ -61,9 +61,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * Dağıtım (Deployment): Vercel (Frontend), Render (Backend)
 
 # Product Backlog URL
-Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
-
-![Sprint 1 Board](Documentation/sprint1-board.png)
+ FOTO GELECEK
 
 ---
 # Sprint Süreci
@@ -103,7 +101,9 @@ ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden
 
 ##  Sprint Board
 
-Sprint Board Fotoğrafı Gelecek
+Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
+
+![Sprint 1 Board](Documentation/sprint1-board.png)
 
 ---
 
