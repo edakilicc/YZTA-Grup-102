@@ -103,7 +103,7 @@ ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden
 
 ##  Sprint Board
 
-FOTO GELECEK
+![Sprint Board](Documentation/sprint1board.png)
 
 ---
 
