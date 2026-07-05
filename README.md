@@ -15,6 +15,7 @@
 # 💊 PharmaGuard
 
 ### AI-Powered Smart Medication & Treatment Management Platform
+ <img src="Documentation/pharmaguard.png" alt="PharmaGuard Logo" width="450"/>
 
 </div>
 
