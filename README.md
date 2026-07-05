@@ -60,7 +60,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * Sürüm Kontrolü: Git & GitHub
 * Dağıtım (Deployment): Vercel (Frontend), Render (Backend)
 
-# Product Backlog URL
+# Product Backlog 
 Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
 
 ![Product Backlog Board](Documentation/productbacklog.png)
