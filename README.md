@@ -96,8 +96,8 @@ Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden takip edilmiştir.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
-📄 Zoom & Slack ekran görüntüleri  
-GELECEK
+📄 **[Daily Scrum Toplantı Dokümanı](Documentation/DailyScrumMeets.pdf)**
+
 
 ---
 
@@ -109,8 +109,11 @@ Sprint Board Fotoğrafı Gelecek
 
 ## Ürün Durumu (Ekran Görüntüleri)
 
-GELECEK
+Sprint 1 kapsamında uygulamanın temel kullanıcı arayüzü (UI) taslakları hazırlanmıştır. Bu ekranlar, ürünün temel akışını ve planlanan özelliklerini göstermek amacıyla oluşturulmuş ön tasarımlardır. Sprint 2 sürecinde ekip tarafından tekrar değerlendirilerek kullanıcı deneyimi (UX), görsel tasarım ve fonksiyonellik açısından gerekli iyileştirmeler gerçekleştirilecektir.
 
+| Ürün Taslağı 1 | Ürün Taslağı 2 | Ürün Taslağı 3 | Ürün Taslağı 4 |
+| :------------: | :------------: | :------------: | :------------: |
+| <img src="Documentation/UrunFoto1.png" width="180"/> | <img src="Documentation/UrunFoto2.png" width="180"/> | <img src="Documentation/UrunFoto3.png" width="180"/> | <img src="Documentation/UrunFoto4.png" width="180"/> |
 ---
 
 ##  Sprint Review
