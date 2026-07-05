@@ -62,7 +62,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 # Product Backlog URL
 Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
 
-[PharmaGuard Trello Backlog Board](Documentation/sprint1-board.png)
+![Sprint 1 Board](Documentation/sprint1-board.png)
 
 ---
 # Sprint Süreci
