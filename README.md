@@ -63,7 +63,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 # Product Backlog 
 Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
 
-![Product Backlog Board](Documentation/Sproductbacklog.png)
+![Product Backlog Board](Documentation/productbacklog.png)
 
 ---
 # Sprint Süreci
@@ -113,7 +113,7 @@ Sprint 1 kapsamında uygulamanın temel kullanıcı arayüzü (UI) taslakları h
 
 | Ürün Taslağı 1 | Ürün Taslağı 2 | Ürün Taslağı 3 | Ürün Taslağı 4 |
 | :------------: | :------------: | :------------: | :------------: |
-| <img src="Documentation/UrunFoto1.png" width="180"/> | <img src="Documentation/UrunFoto2.png" width="180"/> | <img src="Documentation/UrunFoto3.png" width="180"/> | <img src="Documentation/UrunFoto4.png" width="180"/> |
+| <img src="Documentation/Sprint1/UrunFoto1.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto2.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto3.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto4.png" width="180"/> |
 ---
 
 ##  Sprint Review
