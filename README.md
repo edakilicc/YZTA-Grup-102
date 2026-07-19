@@ -209,8 +209,6 @@ Aşağıdaki ekran görüntüleri, Sprint 2 sonunda ürünün ulaştığı mevcu
 
 ---
 
----
-
 ## Sprint Review
 
 Sprint 2 sonunda gerçekleştirilen toplantıda sprint boyunca geliştirilen özellikler ekip tarafından değerlendirilmiştir. Sprint 1’de hazırlanan kullanıcı arayüzü taslakları geliştirilerek işlevsel uygulama ekranlarına dönüştürülmüş, React tabanlı frontend ve FastAPI tabanlı backend yapısı oluşturulmuştur.
