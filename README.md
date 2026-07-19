@@ -63,7 +63,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 # Product Backlog 
 Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
 
-![Product Backlog Board](Documentation/productbacklog.png)
+![Product Backlog Board](Documentation/Sproductbacklog.png)
 
 ---
 # Sprint Süreci
@@ -96,14 +96,14 @@ Toplantılar ve yazılı iletişim sürecinde ekip üyeleri tarafından:
 ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden takip edilmiştir.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
-📄 [DailyScrumMeets.pdf](Documentation/DailyScrumMeets.pdf)
+📄 [DailyScrumMeets.pdf](Documentation/Sprint1/DailyScrumMeets.pdf)
 
 
 ---
 
 ##  Sprint Board
 
-![Sprint Board](Documentation/sprint1board.png)
+![Sprint Board](Documentation/Sprint1/sprint1board.png)
 
 ---
 
@@ -163,3 +163,28 @@ Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve
 - Uygulamanın Android cihazlarda çalışabilmesi için **Capacitor** entegrasyonu gerçekleştirildi ve ilaç saatlerine yönelik yerel bildirim altyapısı hazırlandı.
 - Uygulamaya Türkçe ve İngilizce dil seçenekleri ile açık/koyu tema desteği eklendi.
 - Sprint sonunda geliştirilen özellikler ekip tarafından incelendi; test, hata düzeltme, OCR doğruluğunun artırılması ve canlıya alma çalışmaları bir sonraki sprint için planlandı.
+
+---
+
+## 🗣 Daily Scrum
+
+Sprint 2 süresince ekip içi iletişim ve geliştirme sürecinin koordinasyonu **Zoom** ve **Slack** üzerinden yürütülmüştür.
+
+Daily Scrum görüşmelerinde ekip üyeleri tarafından:
+
+- Frontend ve backend geliştirmelerinde tamamlanan çalışmalar,
+- Kullanıcı ve ilaç yönetimi özelliklerinin ilerleme durumu,
+- OCR ve yapay zekâ entegrasyonu üzerine yapılan çalışmalar,
+- Karşılaşılan teknik sorunlar ve geliştirilen çözüm önerileri,
+- Test edilmesi gereken özellikler ve bir sonraki geliştirme adımları
+
+ekip ile paylaşılmıştır. Görevlerin ilerleme durumları düzenli olarak değerlendirilmiş ve sprint hedefleri doğrultusunda ekip içi koordinasyon sürdürülmüştür.
+
+🗂 **Toplantı notları ve iletişim kayıtları:**  
+📄 [Sprint 2 Daily Scrum](Documentation/Sprint1/DailyScrumSprint2.pdf)
+
+---
+
+##  Sprint Board
+
+![Sprint 2 Board](Documentation/Sprint2/sprint2board.png)
