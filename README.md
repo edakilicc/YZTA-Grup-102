@@ -2,12 +2,13 @@
 # 👥 Takım 102
 
 # Takım Üyelerimiz
-|                | İsim         | Rol               | LinkedIn Hesabı                                          |
-| -------------- | ------------ | ----------------- | -------------------------------------------------------- |
-| | Eylül Kalfa | Product Owner & Developer  | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/)  |
-| | Esra Eda Kılıç   | Scrum Master & Developer  | [linkedin.com/in/esraedakılıç](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
-| | Yiğit Emre Demiral    | Developer         | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/)   |
-| | Serhat Erdoğan   | Developer| [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) |
+
+| Fotoğraf | İsim | Rol | LinkedIn Hesabı |
+| :---: | :--- | :--- | :--- |
+| <img src="Documentation/eylul-kalfa.png" width="55"> | Eylül Kalfa | Product Owner & Developer | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/) |
+| <img src="Documentation/esra-eda-kilic.png" width="55"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) |
+| <img src="Documentation/yigit-emre-demiral.png" width="55"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) |
+| <img src="Documentation/serhat-erdogan.png" width="55"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) |
 
 # Ürün İsmi
 <div align="center">
