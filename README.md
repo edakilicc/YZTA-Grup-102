@@ -1,4 +1,5 @@
 # Takım İsmi
+
 # 👥 Takım 102
 
 # Takım Üyelerimiz
@@ -9,6 +10,7 @@
 | <img src="Documentation/esra-eda-kilic.png?raw=true" width="55"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) | <a href="https://github.com/edakilicc"><img src="https://github.githubassets.com/favicons/favicon.svg" width="18"> github.com/edakilicc</a> |
 | <img src="Documentation/yigit-emre-demiral.jpg" width="55"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) | <a href="https://github.com/emre-5"><img src="https://github.githubassets.com/favicons/favicon.svg" width="18"> github.com/emre-5</a> |
 | <img src="Documentation/serhat-erdogan.png" width="55"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) | <a href="https://github.com/SerhatErdogann"><img src="https://github.githubassets.com/favicons/favicon.svg" width="18"> github.com/SerhatErdogann</a> |
+
 
 # Ürün İsmi
 <div align="center">
