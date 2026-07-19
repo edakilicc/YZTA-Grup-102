@@ -2,7 +2,7 @@
 # 👥 Takım 102
 
 # Takım Üyelerimiz
-| Fotoğraf       | İsim         | Rol               | LinkedIn Hesabı                                          |
+|                | İsim         | Rol               | LinkedIn Hesabı                                          |
 | -------------- | ------------ | ----------------- | -------------------------------------------------------- |
 | | Eylül Kalfa | Product Owner & Developer  | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/)  |
 | | Esra Eda Kılıç   | Scrum Master & Developer  | [linkedin.com/in/esraedakılıç](https://www.linkedin.com/in/esraedak%C4%B1l%C4%B1%C3%A7/)     |
