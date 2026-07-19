@@ -188,3 +188,43 @@ ekip ile paylaşılmıştır. Görevlerin ilerleme durumları düzenli olarak de
 ##  Sprint Board
 
 ![Sprint 2 Board](Documentation/Sprint2/sprint2board.png)
+
+---
+
+## Ürün Durumu (Ekran Görüntüleri)
+
+Sprint 2 kapsamında, Sprint 1’de hazırlanan kullanıcı arayüzü taslakları geliştirilerek uygulamanın temel özellikleri işlevsel hâle getirilmiştir. Frontend ve backend bağlantısı kurulmuş, kullanıcı ve ilaç yönetimi başta olmak üzere projenin temel uygulama akışları oluşturulmuştur.
+
+Aşağıdaki ekran görüntüleri, Sprint 2 sonunda ürünün ulaştığı mevcut geliştirme durumunu göstermektedir.
+
+| Ürün Görseli 1 | Ürün Görseli 2 | Ürün Görseli 3 | Ürün Görseli 4 |
+| :------------: | :------------: | :------------: | :------------: |
+| <img src="Documentation/Sprint2/UrunSprint2_1.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_2.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_3.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_4.png" width="180"/> |
+
+---
+
+## Sprint Review
+
+Sprint 2 sonunda gerçekleştirilen toplantıda sprint boyunca geliştirilen özellikler ekip tarafından değerlendirilmiştir. Sprint 1’de hazırlanan kullanıcı arayüzü taslakları geliştirilerek işlevsel uygulama ekranlarına dönüştürülmüş, React tabanlı frontend ve FastAPI tabanlı backend yapısı oluşturulmuştur.
+
+Kullanıcı kayıt ve giriş sistemi, ilaç yönetimi, günlük ilaç takibi ve haftalık tedavi uyumu gibi temel özellikler uygulamaya entegre edilmiştir. Ayrıca OCR ile reçete tarama, Gemini API ile prospektüs özetleme ve ilaç etkileşim analizi özelliklerinin altyapısı geliştirilmiştir.
+
+Sprint sonunda projenin önemli bir bölümünde ilerleme kaydedilmiş; test, hata düzeltme, OCR doğruluğunun artırılması, mobil bildirimlerin kontrol edilmesi ve canlıya alma çalışmaları bir sonraki sprint için planlanmıştır.
+
+## Sprint Retrospective
+
+### Sprint Boyunca İyi Gidenler
+
+- Sprint 1’de hazırlanan tasarımlar işlevsel uygulama ekranlarına dönüştürüldü.
+- Frontend, backend ve veritabanı geliştirmelerinde önemli ilerleme kaydedildi.
+- Kullanıcı yönetimi, ilaç takibi, OCR ve yapay zekâ özelliklerinin temel altyapıları oluşturuldu.
+- Karşılaşılan teknik sorunlar ekip içerisinde değerlendirilerek çözüm önerileri geliştirildi.
+- Ekip içi iletişim sürdürülerek projenin geliştirme süreci takip edildi.
+
+### Bir Sonraki Sprintte Daha İyi Yapabileceklerimiz
+
+- Geliştirme görevlerini ekip üyeleri arasında daha dengeli dağıtmayı hedefliyoruz.
+- Her ekip üyesinin kod geliştirme, test ve entegrasyon süreçlerinde daha aktif sorumluluk almasını sağlayacağız.
+- Kodlama sürecinin belirli ekip üyeleri üzerinde yoğunlaşmaması için görevleri daha küçük ve takip edilebilir parçalara ayıracağız.
+- Görev ilerlemelerini daha düzenli paylaşarak ekip içi koordinasyonu güçlendireceğiz.
+- Geliştirilen özellikleri sprint süresince düzenli olarak test ederek hata düzeltmelerini son aşamaya bırakmayacağız.
