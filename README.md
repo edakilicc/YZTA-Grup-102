@@ -145,4 +145,21 @@ Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve
 
 <details>
   <summary><h2>Sprint 2</h2></summary>
+ 
+## Sprint Notları
 
+- Sprint 1 sonunda belirlenen proje kapsamı ve MVP özellikleri yeniden değerlendirilerek Sprint 2 hedefleri netleştirildi.
+- Sprint 2’nin temel hedefi, Sprint 1’de hazırlanan kullanıcı arayüzü taslaklarının işlevsel bir uygulamaya dönüştürülmesi ve projenin temel teknik altyapısının oluşturulması olarak belirlendi.
+- Uygulamanın frontend tarafı **React, Vite ve Tailwind CSS** teknolojileri kullanılarak geliştirildi.
+- Backend altyapısı **FastAPI** kullanılarak oluşturuldu ve frontend ile API bağlantısı sağlandı.
+- Kullanıcıların hesap oluşturabilmesi, giriş yapabilmesi ve kişisel verilerine güvenli şekilde erişebilmesi amacıyla **JWT tabanlı kullanıcı kayıt ve giriş sistemi** geliştirildi.
+- Kullanıcıların ilaçlarını ekleyebilmesi, görüntüleyebilmesi, güncelleyebilmesi ve silebilmesi için ilaç yönetim işlemleri uygulamaya entegre edildi.
+- İlaç kullanım saatlerinin kaydedilmesi ve günlük ilaç programının oluşturulması sağlandı.
+- Kullanıcıların ilaçlarını alıp almadıklarını işaretleyebilecekleri günlük ilaç takip sistemi geliştirildi.
+- Günlük kullanım kayıtlarına göre haftalık tedavi uyum verilerinin hesaplanması ve rapor ekranında görüntülenmesi sağlandı.
+- Yaygın kullanılan ilaçlara ait temel bilgilerin tutulabilmesi amacıyla referans ilaç veritabanının ilk sürümü oluşturuldu.
+- Reçete ve ilaç kutusu görsellerinden ilaç bilgilerinin okunabilmesi için **Tesseract OCR** ve **Gemini Vision** destekli görüntü analiz altyapısı geliştirildi.
+- **Gemini API** kullanılarak ilaç prospektüslerinin kullanıcı dostu bir dille özetlenmesi ve ilaç etkileşimlerinin analiz edilmesi için gerekli servisler oluşturuldu.
+- Uygulamanın Android cihazlarda çalışabilmesi için **Capacitor** entegrasyonu gerçekleştirildi ve ilaç saatlerine yönelik yerel bildirim altyapısı hazırlandı.
+- Uygulamaya Türkçe ve İngilizce dil seçenekleri ile açık/koyu tema desteği eklendi.
+- Sprint sonunda geliştirilen özellikler ekip tarafından incelendi; test, hata düzeltme, OCR doğruluğunun artırılması ve canlıya alma çalışmaları bir sonraki sprint için planlandı.
