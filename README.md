@@ -203,7 +203,7 @@ Aşağıdaki ekran görüntüleri, Sprint 2 sonunda ürünün ulaştığı mevcu
 
 <br>
 
-| Ürün Görseli 5 | Ürün Görseli 6 | Ürün Görseli 7 | Ürün Görseli 8 |
+| Ürün Görseli 5<br><sub>İlaç Ekledikten Sonra</sub> | Ürün Görseli 6 | Ürün Görseli 7 | Ürün Görseli 8 |
 | :------------: | :------------: | :------------: | :------------: |
 | <img src="Documentation/Sprint2/UrunSprint2_5.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_6.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_7.png" width="180"/> | <img src="Documentation/Sprint2/UrunSprint2_8.png" width="180"/> |
 
