@@ -7,7 +7,7 @@
 | :---: | :--- | :--- | :--- |
 | <img src="Documentation/eylul-kalfa.png" width="55"> | Eylül Kalfa | Product Owner & Developer | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/) |
 | <img src="Documentation/esra-eda-kilic.png" width="55"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) |
-| <img src="Documentation/yigit-emre-demiral.png" width="55"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) |
+| <img src="Documentation/yigit-emre-demiral.jpg" width="55"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) |
 | <img src="Documentation/serhat-erdogan.png" width="55"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) |
 
 # Ürün İsmi
