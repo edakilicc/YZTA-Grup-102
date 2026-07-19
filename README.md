@@ -181,7 +181,7 @@ Daily Scrum görüşmelerinde ekip üyeleri tarafından:
 ekip ile paylaşılmıştır. Görevlerin ilerleme durumları düzenli olarak değerlendirilmiş ve sprint hedefleri doğrultusunda ekip içi koordinasyon sürdürülmüştür.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
-📄 [Sprint 2 Daily Scrum](Documentation/Sprint1/DailyScrumMeets2.pdf)
+📄 [Sprint 2 Daily Scrum](Documentation/Sprint2/DailyScrumMeets2.pdf)
 
 ---
 
