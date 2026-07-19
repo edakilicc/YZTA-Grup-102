@@ -6,11 +6,10 @@
 
 | Fotoğraf | İsim | Rol | LinkedIn Hesabı | GitHub Hesabı |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="Documentation/eylul-kalfa.png" width="65"> | Eylül Kalfa | Product Owner & Developer | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eylulkalfa) [github.com/eylulkalfa](https://github.com/eylulkalfa) |
-| <img src="Documentation/esra-eda-kilic.png?raw=true" width="65"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edakilicc) [github.com/edakilicc](https://github.com/edakilicc) |
-| <img src="Documentation/yigit-emre-demiral.jpg" width="65"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/emre-5) [github.com/emre-5](https://github.com/emre-5) |
-| <img src="Documentation/serhat-erdogan.png" width="65"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SerhatErdogann) [github.com/SerhatErdogann](https://github.com/SerhatErdogann) |
-
+| <img src="Documentation/eylul-kalfa.png" width="65"> | Eylül Kalfa | Product Owner & Developer | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eylulkalfa) |
+| <img src="Documentation/esra-eda-kilic.png?raw=true" width="65"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edakilicc) |
+| <img src="Documentation/yigit-emre-demiral.jpg" width="65"> | Yiğit Emre Demiral | Developer | [linkedin.com/in/yiğitemredemiral](https://www.linkedin.com/in/yi%C4%9Fitemredemiral/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/emre-5) |
+| <img src="Documentation/serhat-erdogan.png" width="65"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SerhatErdogann) |
 
 # Ürün İsmi
 <div align="center">
