@@ -4,7 +4,7 @@
 
 # Takım Üyelerimiz
 
-| Fotoğraf | İsim | Rol | LinkedIn Hesabı | GitHub Hesabı |
+|       | İsim | Rol | LinkedIn Hesabı | GitHub Hesabı |
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="Documentation/eylul-kalfa.png" width="65"> | Eylül Kalfa | Product Owner & Developer | [linkedin.com/in/eylulkalfa](https://www.linkedin.com/in/eylulkalfa/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eylulkalfa) |
 | <img src="Documentation/esra-eda-kilic.png?raw=true" width="65"> | Esra Eda Kılıç | Scrum Master & Developer | [linkedin.com/in/esraedakilic](https://www.linkedin.com/in/esraedakilic/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edakilicc) |
