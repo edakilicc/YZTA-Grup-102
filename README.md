@@ -67,6 +67,8 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 
 ![Product Backlog Board](Documentation/productbacklog.png)
 
+[PharmaGuard Trello Product Backlog’unu Görüntülemek İçin Tıklayın](https://trello.com/b/c760cxNk/pharmaguard-yapay-zeka-destekli-akilli-i%CC%87lac-ve-tedavi-yonetim-platformu)
+
 ---
 # Sprint Süreci
 <details>
