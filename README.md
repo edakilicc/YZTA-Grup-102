@@ -144,8 +144,8 @@ Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve
 - Sprint süresince görev ilerlemelerini daha sık paylaşarak ekip içi koordinasyonu güçlendireceğiz.
 - Geliştirme sürecine daha erken başlayarak Sprint hedeflerini planlanan takvime uygun şekilde ilerleteceğiz.
 
-</details>
 
+<details>
   <summary><h2>Sprint 2</h2></summary>
  
 ## Sprint Notları
@@ -237,7 +237,9 @@ Sprint sonunda projenin önemli bir bölümünde ilerleme kaydedilmiş; test, ha
 - Görev ilerlemelerini daha düzenli paylaşarak ekip içi koordinasyonu güçlendireceğiz.
 - Geliştirilen özellikleri sprint süresince düzenli olarak test ederek hata düzeltmelerini son aşamaya bırakmayacağız.
 
-- <details>
+---
+
+<details>
   <summary><h2>Sprint 3</h2></summary>
 
   ## Sprint Notları
