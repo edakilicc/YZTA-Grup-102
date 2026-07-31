@@ -146,8 +146,6 @@ Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve
 
 </details>
 
-
-<details>
   <summary><h2>Sprint 2</h2></summary>
  
 ## Sprint Notları
