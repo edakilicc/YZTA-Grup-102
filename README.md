@@ -1,5 +1,3 @@
-Aşağıdaki kodda Sprint 1, Sprint 2 ve Sprint 3 birbirinden bağımsızdır. Başlangıçta içerikleri gizli durur; tıklanınca yalnızca seçilen sprint açılır.
-
 # Takım İsmi
 
 # 👥 Takım 102
