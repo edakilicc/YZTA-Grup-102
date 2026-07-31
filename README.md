@@ -238,3 +238,96 @@ Sprint sonunda projenin önemli bir bölümünde ilerleme kaydedilmiş; test, ha
 - Kodlama sürecinin belirli ekip üyeleri üzerinde yoğunlaşmaması için görevleri daha küçük ve takip edilebilir parçalara ayıracağız.
 - Görev ilerlemelerini daha düzenli paylaşarak ekip içi koordinasyonu güçlendireceğiz.
 - Geliştirilen özellikleri sprint süresince düzenli olarak test ederek hata düzeltmelerini son aşamaya bırakmayacağız.
+
+- <details>
+  <summary><h2>Sprint 3</h2></summary>
+
+  ## Sprint Notları
+
+- Sprint 3, PharmaGuard uygulamasının temel özelliklerinin tamamlanması, test edilmesi ve final ürün sunumuna hazırlanması amacıyla yürütülmüştür.
+- Kullanıcı kayıt ve giriş, ilaç yönetimi, günlük ilaç takibi ve haftalık tedavi uyumu akışları gözden geçirilerek iyileştirilmiştir.
+- Tedavi raporlarının PDF olarak oluşturulması ve paylaşılması sağlanmış; Türkçe karakter problemi giderilmiştir.
+- Reçete ve ilaç kutularının kamera veya galeriden taranabilmesi için Tesseract OCR ve Gemini Vision destekli görüntü analiz akışı geliştirilmiştir.
+- Tarama başarısız olduğunda gerçek olmayan örnek ilaçlar gösteren fallback yapısı kaldırılmıştır.
+- Gemini API ile prospektüs özetleme ve ilaç etkileşim analizi özellikleri iyileştirilmiştir.
+- Gemini API’nin günlük kullanım limiti nedeniyle yapay zekâ ve görsel tarama testleri sınırlı sayıda gerçekleştirilebilmiştir.
+- Android uygulama yapısı güncellenerek emülatör ve fiziksel cihaz üzerinde temel kullanım testleri yapılmıştır.
+- Yerel bildirimler, Türkçe–İngilizce dil seçenekleri ve açık/koyu tema desteği kontrol edilmiştir.
+- Sprint sonunda uygulama kullanılabilir final ürün seviyesine getirilmiş; kalan küçük iyileştirmeler belirlenerek ürün videosu ve final dokümantasyonu hazırlıklarına geçilmiştir.
+
+----
+
+## 🗣 Daily Scrum
+
+Sprint 3 süresince ekip içi iletişim ve geliştirme sürecinin koordinasyonu **Zoom** ve **Slack** üzerinden yürütülmüştür.
+
+Daily Scrum görüşmelerinde ekip üyeleri tarafından:
+
+- Uygulamanın güncel kodlarının ekip üyeleriyle paylaşılması,
+- Android Studio emülatörü ve fiziksel cihaz üzerinde gerçekleştirilen testler,
+- Kullanıcı kayıt ve giriş işlemlerinde karşılaşılan bağlantı ve çalışma ortamı sorunları,
+- OCR ve Gemini Vision destekli tarama sonuçlarında karşılaşılan farklılıklar,
+- Mobil bildirimlerin cihaz üzerinde kontrol edilmesi,
+- Final ürün videosunun hazırlanması ve görev dağılımı,
+- GitHub dokümantasyonu ve son teslim sürecinde dikkat edilmesi gereken noktalar
+ekip ile paylaşılmıştır.
+
+🗂 **Toplantı notları ve iletişim kayıtları:**  
+📄 [Sprint 3 Daily Scrum](Documentation/Sprint3/DailyScrumMeets3.pdf)
+
+## Sprint Board
+
+![Sprint 3 Board](Documentation/Sprint3/sprint3board.png)
+
+---
+
+## Ürün Durumu (Ekran Görüntüleri)
+
+Sprint 3 kapsamında PharmaGuard uygulamasının temel geliştirme süreci büyük ölçüde tamamlanmıştır. Kullanıcı ve ilaç yönetimi, günlük ilaç takibi, tedavi uyum raporları, PDF oluşturma, OCR ile ilaç tarama, yapay zekâ destekli ilaç analizi ve mobil bildirim özellikleri bütünleşik bir uygulama akışı içerisinde sunulmuştur.
+
+Aşağıdaki ekran görüntüleri, Sprint 3 sonunda ürünün ulaştığı final geliştirme durumunu göstermektedir.
+
+| Ürün Görseli 1 | Ürün Görseli 2 | Ürün Görseli 3 | Ürün Görseli 4 |
+| :------------: | :------------: | :------------: | :------------: |
+| <img src="Documentation/Sprint3/UrunSprint3_1.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_2.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_3.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_4.png" width="180"/> |
+
+<br>
+
+| Ürün Görseli 5 | Ürün Görseli 6 | Ürün Görseli 7 | Ürün Görseli 8 |
+| :------------: | :------------: | :------------: | :------------: |
+| <img src="Documentation/Sprint3/UrunSprint3_5.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_6.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_7.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_8.png" width="180"/> |
+
+---
+
+## Sprint Review
+
+Sprint 3 sonunda gerçekleştirilen değerlendirmede PharmaGuard uygulamasının kullanıcı kayıt ve giriş, ilaç yönetimi, günlük ilaç takibi, haftalık tedavi uyumu, raporlama, OCR ile ilaç tarama, yapay zekâ destekli ilaç analizi ve mobil bildirim özellikleri ekip tarafından incelenmiştir.
+
+Android Studio üzerinden emülatör ve fiziksel cihaz testleri gerçekleştirilmiş; farklı çalışma ortamlarında karşılaşılan giriş, bağlantı ve dosya aktarımı sorunları değerlendirilmiştir. OCR sonucunda gerçek olmayan örnek ilaçların gösterilmesine neden olan fallback kaldırılarak kullanıcıya yalnızca analiz sonucunda tespit edilen verilerin sunulması sağlanmıştır.
+
+PDF raporlarındaki Türkçe karakter problemi giderilmiş, rapor oluşturma ve paylaşma akışı geliştirilmiştir. Tedavi uyum oranları ve haftalık kullanım verileri rapor ekranında görselleştirilmiştir. Gemini API destekli prospektüs özetleme, ilaç etkileşim analizi ve görsel tarama özellikleri uygulamaya entegre edilmiştir.
+
+Sprint sonunda uygulamanın planlanan temel özelliklerinin büyük bölümü tamamlanmıştır. Gemini API’nin günlük kullanım limiti ve görsel özelliklerine bağlı olarak OCR sonuçlarının farklılık gösterebilmesi, yapay zekâ özelliklerinin sınırlı sayıda test edilmesine neden olmuştur. Bu nedenle OCR doğruluğunun artırılması, PDF istatistiklerinin farklı veri senaryolarıyla doğrulanması ve yapay zekâ değerlendirmelerinin geliştirilmesi ürünün sonraki sürümleri için iyileştirme alanları olarak belirlenmiştir.
+
+Final teslim kapsamında ürün videosunun hazırlanması, GitHub dokümantasyonunun tamamlanması ve uygulamanın temel kullanım senaryolarının sunulması kararlaştırılmıştır.
+
+---
+
+## Sprint Retrospective
+
+### Güçlü Yönlerimiz
+
+- Ekip içi iletişim sprint boyunca düzenli şekilde sürdürüldü ve karşılaşılan sorunlar birlikte değerlendirildi.
+- Ekip üyeleri yoğun programlarına rağmen proje geliştirme ve final hazırlıklarına katkı sağladı.
+- Kullanıcı ve ilaç yönetimi, PDF raporlama, OCR ve yapay zekâ özelliklerinde önemli geliştirmeler tamamlandı.
+- Karşılaşılan teknik sorunlara ekip içinde çözüm önerileri geliştirildi ve saygılı bir iletişim gerçekleşti.
+- Final ürün videosu, dokümantasyon ve teslim süreci ekip içerisinde planlandı.
+- Sprint hedeflerinin büyük bölümüne ulaşılarak uygulama final ürün seviyesine getirildi.
+
+### Proje Sürecinden Çıkardığımız Dersler
+
+- Görev dağılımının sprint başlangıcında daha dengeli ve net yapılmasının ekip verimliliğini artıracağı görüldü.
+- Daha karmaşık ve farklı kullanım senaryolarının test sürecine dâhil edilmesi gerektiği görüldü.
+- Teknik kararların, karşılaşılan sorunların ve çözümlerin daha düzenli dokümante edilmesi gerektiği görüldü.
+
+</details>
