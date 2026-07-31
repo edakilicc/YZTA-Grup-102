@@ -1,3 +1,5 @@
+Aşağıdaki kodda Sprint 1, Sprint 2 ve Sprint 3 birbirinden bağımsızdır. Başlangıçta içerikleri gizli durur; tıklanınca yalnızca seçilen sprint açılır.
+
 # Takım İsmi
 
 # 👥 Takım 102
@@ -12,24 +14,29 @@
 | <img src="Documentation/serhat-erdogan.png" width="65"> | Serhat Erdoğan | Developer | [linkedin.com/in/serhat-erdogann](https://www.linkedin.com/in/serhat-erdogann/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SerhatErdogann) |
 
 # Ürün İsmi
+
 <div align="center">
 
 # 💊 PharmaGuard
 
 ### AI-Powered Smart Medication & Treatment Management Platform
- <img src="Documentation/pharmaguard.png" alt="PharmaGuard Logo" width="450"/>
+
+<img src="Documentation/pharmaguard.png" alt="PharmaGuard Logo" width="450"/>
 
 </div>
 
 # Ürün Açıklaması
-**PharmaGuard**, kullanıcıların ilaç kullanım süreçlerini daha güvenli, düzenli ve kolay yönetmelerini sağlayan yapay zekâ destekli bir ilaç ve tedavi yönetim platformudur. 
-Uygulama; ilaçların manuel olarak eklenmesini, reçete fotoğraflarından OCR teknolojisi ile ilaç bilgilerinin okunmasını, günlük ilaç takibinin yapılmasını ve yapay zekâ tarafından prospektüs bilgilerinin sade bir dille özetlenmesini sağlar. 
+
+**PharmaGuard**, kullanıcıların ilaç kullanım süreçlerini daha güvenli, düzenli ve kolay yönetmelerini sağlayan yapay zekâ destekli bir ilaç ve tedavi yönetim platformudur.  
+Uygulama; ilaçların manuel olarak eklenmesini, reçete fotoğraflarından OCR teknolojisi ile ilaç bilgilerinin okunmasını, günlük ilaç takibinin yapılmasını ve yapay zekâ tarafından prospektüs bilgilerinin sade bir dille özetlenmesini sağlar.  
 Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor kontrolleri öncesinde haftalık tedavi raporlarını PDF formatında oluşturabilir.
 
 # Ürünün Amacı
+
 **PharmaGuard**, kronik hastalar, yaşlı bireyler ve düzenli ilaç kullanan kişilerin ilaç kullanım süreçlerini daha güvenli, düzenli ve takip edilebilir hale getirmeyi amaçlamaktadır. Kullanıcıların ilaçlarını zamanında kullanmalarını desteklerken, reçete ve prospektüs bilgilerinin anlaşılmasını kolaylaştırır ve yapay zekâ destekli analizlerle tedavi sürecini daha verimli yönetmelerine yardımcı olur. Ayrıca doktor kontrolleri öncesinde düzenli tedavi raporları oluşturarak hasta ve sağlık profesyonelleri arasındaki iletişimi güçlendirmeyi hedefler.
 
 # Ürünün Özellikleri
+
 * **Manuel İlaç Yönetimi:** Kullanıcılar ilaçlarını kolayca sisteme ekleyebilir, düzenleyebilir ve günlük kullanım planlarını oluşturabilir.
 
 * **OCR Destekli Reçete Okuma:** Reçete fotoğrafları Tesseract OCR teknolojisi ile analiz edilerek ilaç isimleri otomatik olarak sisteme aktarılır.
@@ -45,6 +52,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * **Kullanıcı Dostu Dashboard:** İlaç kullanım oranı, günlük görevler ve tedavi süreci tek bir ekranda görselleştirilerek kullanıcıya sunulur.
 
 # Hedef Kitle
+
 * Kronik hastalığı nedeniyle düzenli ilaç kullanan bireyler
 * Birden fazla ilaç kullanan kullanıcılar
 * Yaşlı bireyler ve bakımını üstlenen yakınları
@@ -52,6 +60,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * İlaç kullanımını düzenli takip etmek isteyen herkes
 
 # Kullanılacak Teknolojiler
+
 * Frontend: React.js, Tailwind CSS
 * Backend: FastAPI
 * Veritabanı: PostgreSQL
@@ -62,7 +71,8 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * Sürüm Kontrolü: Git & GitHub
 * Dağıtım (Deployment): Vercel (Frontend), Render (Backend)
 
-# Product Backlog 
+# Product Backlog
+
 Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerinden yürütmekteyiz.
 
 ![Product Backlog Board](Documentation/productbacklog.png)
@@ -70,11 +80,14 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 [Product Backlog’u Görüntülemek İçin Tıklayın](https://trello.com/b/c760cxNk/pharmaguard-yapay-zeka-destekli-akilli-i%CC%87lac-ve-tedavi-yonetim-platformu)
 
 ---
+
 # Sprint Süreci
+
 <details>
   <summary><h2>Sprint 1</h2></summary>
 
 ## Sprint Notları
+
 - Ekip üyeleri tanışarak ilk toplantı gerçekleştirildi.
 - Scrum rolleri (Product Owner, Scrum Master ve Developer) belirlendi.
 - Farklı proje fikirleri ekip içerisinde değerlendirildi ve avantaj/dezavantaj analizleri yapıldı.
@@ -86,6 +99,7 @@ Proje planlama, görev takibi ve sprint yönetimi süreçlerimizi Trello üzerin
 - Product Backlog oluşturuldu ve Sprint 2 için geliştirme yol haritası planlandı.
 
 ---
+
 ## 🗣 Daily Scrum
 
 Sprint 1 süresince ekip içi iletişim ve sprint koordinasyonu **Zoom** ve **Slack** üzerinden yürütülmüştür.
@@ -102,10 +116,9 @@ ekip ile paylaşılmış ve sprint süreci ortak iletişim kanalları üzerinden
 🗂 **Toplantı notları ve iletişim kayıtları:**  
 📄 [DailyScrumMeets.pdf](Documentation/Sprint1/DailyScrumMeets.pdf)
 
-
 ---
 
-##  Sprint Board
+## Sprint Board
 
 ![Sprint Board](Documentation/Sprint1/sprint1board.png)
 
@@ -118,15 +131,15 @@ Sprint 1 kapsamında uygulamanın temel kullanıcı arayüzü (UI) taslakları h
 | Ürün Taslağı 1 | Ürün Taslağı 2 | Ürün Taslağı 3 | Ürün Taslağı 4 |
 | :------------: | :------------: | :------------: | :------------: |
 | <img src="Documentation/Sprint1/UrunFoto1.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto2.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto3.png" width="180"/> | <img src="Documentation/Sprint1/UrunFoto4.png" width="180"/> |
+
 ---
 
-##  Sprint Review
+## Sprint Review
 
-Sprint 1 sonunda gerçekleştirilen toplantılar doğrultusunda proje fikri netleştirilmiş ve **PharmaGuard** projesinin geliştirilmesine karar verilmiştir. 
-Projenin kapsamı, hedef kitlesi ve MVP özellikleri ekip tarafından değerlendirilmiş, kullanılacak teknolojiler üzerinde ortak bir görüş oluşturulmuştur.
-Sprint sürecinde GitHub reposu oluşturulmuş, proje dokümantasyonuna başlanmış ve Product Backlog hazırlanmıştır.
+Sprint 1 sonunda gerçekleştirilen toplantılar doğrultusunda proje fikri netleştirilmiş ve **PharmaGuard** projesinin geliştirilmesine karar verilmiştir.  
+Projenin kapsamı, hedef kitlesi ve MVP özellikleri ekip tarafından değerlendirilmiş, kullanılacak teknolojiler üzerinde ortak bir görüş oluşturulmuştur.  
+Sprint sürecinde GitHub reposu oluşturulmuş, proje dokümantasyonuna başlanmış ve Product Backlog hazırlanmıştır.  
 Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve ekip üyeleri arasında ön görev dağılımı yapılmıştır.
-
 
 ## Sprint Retrospective
 
@@ -144,10 +157,13 @@ Bir sonraki sprintte gerçekleştirilecek geliştirme görevleri planlanmış ve
 - Sprint süresince görev ilerlemelerini daha sık paylaşarak ekip içi koordinasyonu güçlendireceğiz.
 - Geliştirme sürecine daha erken başlayarak Sprint hedeflerini planlanan takvime uygun şekilde ilerleteceğiz.
 
+</details>
+
+---
 
 <details>
   <summary><h2>Sprint 2</h2></summary>
- 
+
 ## Sprint Notları
 
 - Sprint 1 sonunda belirlenen proje kapsamı ve MVP özellikleri yeniden değerlendirilerek Sprint 2 hedefleri netleştirildi.
@@ -187,7 +203,7 @@ ekip ile paylaşılmıştır. Görevlerin ilerleme durumları düzenli olarak de
 
 ---
 
-##  Sprint Board
+## Sprint Board
 
 ![Sprint 2 Board](Documentation/Sprint2/sprint2board.png)
 
@@ -237,12 +253,14 @@ Sprint sonunda projenin önemli bir bölümünde ilerleme kaydedilmiş; test, ha
 - Görev ilerlemelerini daha düzenli paylaşarak ekip içi koordinasyonu güçlendireceğiz.
 - Geliştirilen özellikleri sprint süresince düzenli olarak test ederek hata düzeltmelerini son aşamaya bırakmayacağız.
 
+</details>
+
 ---
 
 <details>
   <summary><h2>Sprint 3</h2></summary>
 
-  ## Sprint Notları
+## Sprint Notları
 
 - Sprint 3, PharmaGuard uygulamasının temel özelliklerinin tamamlanması, test edilmesi ve final ürün sunumuna hazırlanması amacıyla yürütülmüştür.
 - Kullanıcı kayıt ve giriş, ilaç yönetimi, günlük ilaç takibi ve haftalık tedavi uyumu akışları gözden geçirilerek iyileştirilmiştir.
@@ -255,7 +273,7 @@ Sprint sonunda projenin önemli bir bölümünde ilerleme kaydedilmiş; test, ha
 - Yerel bildirimler, Türkçe–İngilizce dil seçenekleri ve açık/koyu tema desteği kontrol edilmiştir.
 - Sprint sonunda uygulama kullanılabilir final ürün seviyesine getirilmiş; kalan küçük iyileştirmeler belirlenerek ürün videosu ve final dokümantasyonu hazırlıklarına geçilmiştir.
 
-----
+---
 
 ## 🗣 Daily Scrum
 
@@ -270,10 +288,13 @@ Daily Scrum görüşmelerinde ekip üyeleri tarafından:
 - Mobil bildirimlerin cihaz üzerinde kontrol edilmesi,
 - Final ürün videosunun hazırlanması ve görev dağılımı,
 - GitHub dokümantasyonu ve son teslim sürecinde dikkat edilmesi gereken noktalar
+
 ekip ile paylaşılmıştır.
 
 🗂 **Toplantı notları ve iletişim kayıtları:**  
 📄 [Sprint 3 Daily Scrum](Documentation/Sprint3/DailyScrumMeets3.pdf)
+
+---
 
 ## Sprint Board
 
