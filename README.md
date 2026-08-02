@@ -59,15 +59,17 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 
 # Kullanılan Teknolojiler
 
-* Frontend: React.js, Tailwind CSS
+* Frontend: React.js, Vite, Tailwind CSS
 * Backend: FastAPI
-* Veritabanı: PostgreSQL
-* Yapay Zekâ: Gemini API
-* OCR (Optik Karakter Tanıma): Tesseract OCR
+* Veritabanı: PostgreSQL (üretim), SQLite (yerel geliştirme)
+* ORM ve Veritabanı Migrasyonu: SQLAlchemy, Alembic
+* Yapay Zekâ: Google Gemini API (`gemini-flash-latest`)
+* OCR ve Görsel Analiz: Tesseract OCR, Gemini Vision
 * PDF Oluşturma: ReportLab
+* Mobil Uygulama: Capacitor, Android
 * API Testi: Postman
-* Sürüm Kontrolü: Git & GitHub
-* Dağıtım (Deployment): Vercel (Frontend), Render (Backend)
+* Sürüm Kontrolü: Git ve GitHub
+* Planlanan Dağıtım: Vercel (Frontend), Render (Backend)
 
 # Product Backlog
 
