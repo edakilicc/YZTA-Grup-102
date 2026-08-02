@@ -204,3 +204,4 @@ npm run android
 ⚠️ **PharmaGuard AI**, ilaç kullanımını takip etmenize yardımcı olan bilgilendirici bir araçtır. Uygulama içindeki yapay zekâ destekli özetler, analizler ve raporlar; tıbbi teşhis, tedavi önerisi veya bir sağlık profesyonelinin görüşünün yerine geçmez. İlaç kullanımınızla, dozajınızla veya tedavinizle ilgili tüm kararları mutlaka doktorunuza veya eczacınıza danışarak alınız.
 
 Kimlik bilgileriniz ve ilaç kayıtlarınız yalnızca kendi hesabınıza bağlı olarak saklanır. API anahtarlarınızı ve `.env` dosyalarınızı asla paylaşmayın veya bir sürüm kontrol sistemine (Git) eklemeyin.
+
