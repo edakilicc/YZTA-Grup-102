@@ -1,0 +1,31 @@
+{
+  "appId": "com.pharmaguardianai.app",
+  "appName": "PharmaGuardianAI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "backgroundColor": "#006A60",
+      "showSpinner": false,
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_notification",
+      "iconColor": "#006A60",
+      "sound": "notification_sound.wav"
+    },
+    "Camera": {
+      "androidImageCaptureQuality": 85
+    },
+    "StatusBar": {
+      "backgroundColor": "#006A60",
+      "style": "DARK",
+      "overlaysWebView": false
+    }
+  }
+}
