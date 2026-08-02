@@ -1,6 +1,6 @@
 # Takım İsmi
 
-# 👥 Takım 102
+# 👥 AI Takım 102
 
 # Takım Üyelerimiz
 
@@ -57,7 +57,7 @@ Ayrıca kullanıcılar, ilaç kullanım geçmişlerini takip edebilir ve doktor 
 * Düzenli tedavi süreci gerektiren hastalar
 * İlaç kullanımını düzenli takip etmek isteyen herkes
 
-# Kullanılacak Teknolojiler
+# Kullanılan Teknolojiler
 
 * Frontend: React.js, Tailwind CSS
 * Backend: FastAPI
