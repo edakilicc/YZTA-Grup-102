@@ -7,12 +7,6 @@
 
 </div>
 
-## Proje Tanıtımı
-
-**PharmaGuard AI**, kullanıcıların ilaç kullanım süreçlerini daha güvenli, düzenli ve kolay yönetmelerini sağlayan yapay zekâ destekli bir ilaç ve tedavi yönetim platformudur.
-
-Uygulama; ilaçların manuel olarak eklenmesini, reçete/kutu fotoğraflarından OCR teknolojisiyle ilaç bilgilerinin okunmasını, günlük ilaç takibinin yapılmasını ve yapay zekâ tarafından prospektüs bilgilerinin sade bir dille özetlenmesini sağlar. Kullanıcılar ilaç kullanım geçmişlerini takip edebilir ve doktor kontrolleri öncesinde haftalık tedavi uyum raporlarını PDF formatında oluşturabilir.
-
 ## Projenin Amacı
 
 **PharmaGuard AI**, kronik hastalar, yaşlı bireyler ve düzenli ilaç kullanan kişilerin ilaç kullanım süreçlerini daha güvenli, düzenli ve takip edilebilir hale getirmeyi amaçlamaktadır. Kullanıcıların ilaçlarını zamanında kullanmalarını desteklerken, reçete ve prospektüs bilgilerinin anlaşılmasını kolaylaştırır ve yapay zekâ destekli analizlerle tedavi sürecini daha verimli yönetmelerine yardımcı olur. Ayrıca doktor kontrolleri öncesinde düzenli tedavi raporları oluşturarak hasta ve sağlık profesyonelleri arasındaki iletişimi güçlendirmeyi hedefler.
