@@ -326,9 +326,9 @@ Aşağıdaki ekran görüntüleri, Sprint 3 sonunda ürünün ulaştığı final
 
 <br>
 
-| Ürün Görseli 13 | Ürün Görseli 14 | Ürün Görseli 15 |
-| :-------------: | :-------------: | :-------------: |
-| <img src="Documentation/Sprint3/UrunSprint3_13.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_14.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_15.png" width="180"/> |
+| Ürün Görseli 13 | Ürün Görseli 14 | Ürün Görseli 15 | Ürün Görseli 16 |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| <img src="Documentation/Sprint3/UrunSprint3_13.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_14.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_15.png" width="180"/> | <img src="Documentation/Sprint3/UrunSprint3_16.png" width="180"/> |
 ---
 
 ## Sprint Review
